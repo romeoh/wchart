@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="EUC-KR" standalone="yes"?>
+<Rows>
+	<date year="1993">
+		<Row year="1993" month="01" kospi="670.56" kosdaq="" krw="794.0" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1993" month="02" kospi="642.96" kosdaq="" krw="794.9" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1993" month="03" kospi="666.75" kosdaq="" krw="794.0" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1993" month="04" kospi="721.57" kosdaq="" krw="795.9" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1993" month="05" kospi="752.31" kosdaq="" krw="801.1" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1993" month="06" kospi="748.87" kosdaq="" krw="803.7" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1993" month="07" kospi="729.94" kosdaq="" krw="806.6" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1993" month="08" kospi="664.88" kosdaq="" krw="808.4" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1993" month="09" kospi="718.87" kosdaq="" krw="808.8" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1993" month="10" kospi="750.72" kosdaq="" krw="808.2" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1993" month="11" kospi="811.06" kosdaq="" krw="807.6" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1993" month="12" kospi="866.18" kosdaq="" krw="808.1" nation="" company="" call="" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="1994">
+		<Row year="1994" month="01" kospi="945.71" kosdaq="" krw="808.1" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1994" month="02" kospi="918.88" kosdaq="" krw="808.0" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1994" month="03" kospi="867.22" kosdaq="" krw="806.5" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1994" month="04" kospi="908.72" kosdaq="" krw="807.5" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1994" month="05" kospi="939.49" kosdaq="" krw="806.1" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1994" month="06" kospi="933.36" kosdaq="" krw="805.5" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1994" month="07" kospi="927.97" kosdaq="" krw="802.6" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1994" month="08" kospi="944.23" kosdaq="" krw="801.1" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1994" month="09" kospi="1050.51" kosdaq="" krw="798.9" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1994" month="10" kospi="1105.62" kosdaq="" krw="796.9" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1994" month="11" kospi="1074.41" kosdaq="" krw="794.3" nation="" company="" call="" ><![CDATA[“”]]></Row>
+		<Row year="1994" month="12" kospi="1027.37" kosdaq="" krw="788.7" nation="" company="" call="" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="1995">
+		<Row year="1995" month="01" kospi="925.56" kosdaq="" krw="786.7" nation="" company="15.20" call="21.26" ><![CDATA[“”]]></Row>
+		<Row year="1995" month="02" kospi="885.69" kosdaq="" krw="786.0" nation="" company="15.45" call="15.52" ><![CDATA[“”]]></Row>
+		<Row year="1995" month="03" kospi="931.78" kosdaq="" krw="771.5" nation="" company="14.20" call="12.19" ><![CDATA[“”]]></Row>
+		<Row year="1995" month="04" kospi="897.00" kosdaq="" krw="761.8" nation="" company="14.70" call="14.38" ><![CDATA[“”]]></Row>
+		<Row year="1995" month="05" kospi="882.50" kosdaq="" krw="760.1" nation="" company="14.97" call="13.39" ><![CDATA[“”]]></Row>
+		<Row year="1995" month="06" kospi="933.57" kosdaq="" krw="756.5" nation="" company="13.90" call="12.05" ><![CDATA[“”]]></Row>
+		<Row year="1995" month="07" kospi="909.59" kosdaq="" krw="758.1" nation="" company="14.66" call="15.37" ><![CDATA[“”]]></Row>
+		<Row year="1995" month="08" kospi="914.06" kosdaq="" krw="777.1" nation="" company="12.98" call="12.76" ><![CDATA[“”]]></Row>
+		<Row year="1995" month="09" kospi="982.65" kosdaq="" krw="768.4" nation="" company="12.55" call="10.62" ><![CDATA[“”]]></Row>
+		<Row year="1995" month="10" kospi="990.26" kosdaq="" krw="765.5" nation="" company="12.03" call="11.44" ><![CDATA[“”]]></Row>
+		<Row year="1995" month="11" kospi="930.92" kosdaq="" krw="769.2" nation="" company="11.66" call="11.06" ><![CDATA[“”]]></Row>
+		<Row year="1995" month="12" kospi="882.94" kosdaq="" krw="774.7" nation="" company="11.93" call="12.66" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="1996">
+		<Row year="1996" month="01" kospi="878.82" kosdaq="" krw="784.3" nation="" company="12.04" call="10.46" ><![CDATA[“”]]></Row>
+		<Row year="1996" month="02" kospi="852.83" kosdaq="" krw="780.7" nation="" company="11.86" call="11.49" ><![CDATA[“”]]></Row>
+		<Row year="1996" month="03" kospi="874.16" kosdaq="" krw="782.7" nation="" company="11.44" call="9.36" ><![CDATA[“”]]></Row>
+		<Row year="1996" month="04" kospi="980.90" kosdaq="" krw="778.7" nation="" company="10.44" call="10.57" ><![CDATA[“”]]></Row>
+		<Row year="1996" month="05" kospi="903.09" kosdaq="" krw="787.9" nation="" company="11.36" call="13.56" ><![CDATA[“”]]></Row>
+		<Row year="1996" month="06" kospi="817.43" kosdaq="" krw="810.6" nation="" company="11.70" call="13.43" ><![CDATA[“”]]></Row>
+		<Row year="1996" month="07" kospi="821.71" kosdaq="" krw="813.3" nation="" company="12.10" call="16.08" ><![CDATA[“”]]></Row>
+		<Row year="1996" month="08" kospi="781.49" kosdaq="" krw="819.4" nation="" company="12.14" call="16.51" ><![CDATA[“”]]></Row>
+		<Row year="1996" month="09" kospi="789.67" kosdaq="" krw="821.2" nation="" company="12.40" call="15.99" ><![CDATA[“”]]></Row>
+		<Row year="1996" month="10" kospi="757.59" kosdaq="" krw="831.3" nation="" company="12.05" call="15.68" ><![CDATA[“”]]></Row>
+		<Row year="1996" month="11" kospi="726.48" kosdaq="" krw="828.7" nation="" company="12.28" call="13.45" ><![CDATA[“”]]></Row>
+		<Row year="1996" month="12" kospi="651.22" kosdaq="" krw="844.2" nation="" company="12.60" call="12.21" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="1997">
+		<Row year="1997" month="01" kospi="685.84" kosdaq="1207.90" krw="861.3" nation="" company="12.00" call="11.67" ><![CDATA[“”]]></Row>
+		<Row year="1997" month="02" kospi="676.53" kosdaq="1183.50" krw="863.9" nation="" company="12.40" call="12.14" ><![CDATA[“”]]></Row>
+		<Row year="1997" month="03" kospi="677.34" kosdaq="1204.70" krw="897.1" nation="" company="12.50" call="12.97" ><![CDATA[“”]]></Row>
+		<Row year="1997" month="04" kospi="703.23" kosdaq="1252.90" krw="892.1" nation="" company="12.50" call="14.16" ><![CDATA[“”]]></Row>
+		<Row year="1997" month="05" kospi="756.77" kosdaq="1308.10" krw="891.8" nation="" company="11.90" call="11.73" ><![CDATA[“”]]></Row>
+		<Row year="1997" month="06" kospi="745.40" kosdaq="1331.10" krw="888.1" nation="" company="11.75" call="11.45" ><![CDATA[“”]]></Row>
+		<Row year="1997" month="07" kospi="726.12" kosdaq="1331.30" krw="892.0" nation="" company="11.90" call="11.91" ><![CDATA[“”]]></Row>
+		<Row year="1997" month="08" kospi="695.37" kosdaq="1340.10" krw="902.0" nation="" company="12.16" call="12.98" ><![CDATA[“”]]></Row>
+		<Row year="1997" month="09" kospi="647.11" kosdaq="1327.40" krw="914.8" nation="" company="12.60" call="14.25" ><![CDATA[“”]]></Row>
+		<Row year="1997" month="10" kospi="470.79" kosdaq="1204.30" krw="965.1" nation="" company="12.60" call="13.09" ><![CDATA[“”]]></Row>
+		<Row year="1997" month="11" kospi="407.86" kosdaq="1098.10" krw="1163.8" nation="" company="15.10" call="12.40" ><![CDATA[“”]]></Row>
+		<Row year="1997" month="12" kospi="376.31" kosdaq="972.50" krw="1415.2" nation="" company="28.98" call="26.04" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="1998">
+		<Row year="1998" month="01" kospi="567.38" kosdaq="1031.20" krw="1572.9" nation="" company="18.50" call="24.85" ><![CDATA[“”]]></Row>
+		<Row year="1998" month="02" kospi="558.98" kosdaq="1032.70" krw="1640.1" nation="" company="20.50" call="22.94" ><![CDATA[“”]]></Row>
+		<Row year="1998" month="03" kospi="481.04" kosdaq="1030.60" krw="1378.8" nation="" company="18.28" call="21.98" ><![CDATA[“”]]></Row>
+		<Row year="1998" month="04" kospi="421.22" kosdaq="906.00" krw="1338.2" nation="" company="17.70" call="20.41" ><![CDATA[“”]]></Row>
+		<Row year="1998" month="05" kospi="332.03" kosdaq="782.90" krw="1410.8" nation="" company="17.82" call="18.26" ><![CDATA[“”]]></Row>
+		<Row year="1998" month="06" kospi="297.88" kosdaq="758.30" krw="1385.2" nation="" company="16.00" call="14.89" ><![CDATA[“”]]></Row>
+		<Row year="1998" month="07" kospi="343.33" kosdaq="701.50" krw="1236.0" nation="" company="12.30" call="11.03" ><![CDATA[“”]]></Row>
+		<Row year="1998" month="08" kospi="310.16" kosdaq="637.60" krw="1331.8" nation="" company="11.70" call="8.59" ><![CDATA[“”]]></Row>
+		<Row year="1998" month="09" kospi="310.32" kosdaq="610.30" krw="1373.6" nation="" company="11.90" call="7.38" ><![CDATA[“”]]></Row>
+		<Row year="1998" month="10" kospi="403.44" kosdaq="639.40" krw="1313.8" nation="" company="10.00" call="7.40" ><![CDATA[“”]]></Row>
+		<Row year="1998" month="11" kospi="451.88" kosdaq="641.30" krw="1243.7" nation="8.10" company="9.25" call="7.16" ><![CDATA[“”]]></Row>
+		<Row year="1998" month="12" kospi="562.46" kosdaq="751.80" krw="1207.8" nation="6.95" company="8.00" call="6.74" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="1999">
+		<Row year="1999" month="01" kospi="571.43" kosdaq="761.60" krw="1175.3" nation="7.05" company="8.13" call="6.11" ><![CDATA[“”]]></Row>
+		<Row year="1999" month="02" kospi="520.06" kosdaq="723.00" krw="1222.4" nation="6.96" company="8.65" call="5.17" ><![CDATA[“”]]></Row>
+		<Row year="1999" month="03" kospi="618.98" kosdaq="797.90" krw="1224.7" nation="6.50" company="8.10" call="4.87" ><![CDATA[“”]]></Row>
+		<Row year="1999" month="04" kospi="752.59" kosdaq="1191.00" krw="1176.4" nation="6.66" company="7.74" call="4.75" ><![CDATA[“”]]></Row>
+		<Row year="1999" month="06" kospi="883.00" kosdaq="1795.50" krw="1155.9" nation="7.20" company="7.96" call="4.82" ><![CDATA[“”]]></Row>
+		<Row year="1999" month="06" kospi="753.72" kosdaq="1454.80" krw="1186.3" nation="6.67" company="8.37" call="4.75" ><![CDATA[“”]]></Row>
+		<Row year="1999" month="07" kospi="969.72" kosdaq="1929.70" krw="1206.9" nation="8.44" company="9.22" call="4.72" ><![CDATA[“”]]></Row>
+		<Row year="1999" month="08" kospi="937.88" kosdaq="2009.60" krw="1184.9" nation="9.11" company="10.26" call="4.72" ><![CDATA[“”]]></Row>
+		<Row year="1999" month="09" kospi="836.18" kosdaq="1571.20" krw="1218.7" nation="9.03" company="9.95" call="4.75" ><![CDATA[“”]]></Row>
+		<Row year="1999" month="10" kospi="833.51" kosdaq="1793.80" krw="1200.5" nation="8.18" company="9.02" call="4.80" ><![CDATA[“”]]></Row>
+		<Row year="1999" month="11" kospi="996.66" kosdaq="2292.00" krw="1157.5" nation="8.62" company="9.72" call="4.71" ><![CDATA[“”]]></Row>
+		<Row year="1999" month="12" kospi="1028.07" kosdaq="2561.40" krw="1145.4" nation="9.03" company="9.95" call="4.79" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2000">
+		<Row year="2000" month="01" kospi="943.88" kosdaq="1903.70" krw="1122.1" nation="9.00" company="10.12" call="4.78" ><![CDATA[“”]]></Row>
+		<Row year="2000" month="02" kospi="828.38" kosdaq="2663.70" krw="1131.8" nation="8.91" company="9.90" call="5.07" ><![CDATA[“”]]></Row>
+		<Row year="2000" month="03" kospi="860.94" kosdaq="2212.70" krw="1108.3" nation="9.00" company="9.98" call="5.05" ><![CDATA[“”]]></Row>
+		<Row year="2000" month="04" kospi="725.39" kosdaq="1581.80" krw="1110.3" nation="8.92" company="9.94" call="5.06" ><![CDATA[“”]]></Row>
+		<Row year="2000" month="05" kospi="731.88" kosdaq="1441.50" krw="1133.8" nation="8.87" company="9.89" call="5.12" ><![CDATA[“”]]></Row>
+		<Row year="2000" month="06" kospi="821.22" kosdaq="1518.60" krw="1114.8" nation="8.31" company="9.37" call="5.16" ><![CDATA[“”]]></Row>
+		<Row year="2000" month="07" kospi="705.97" kosdaq="1158.00" krw="1116.2" nation="8.07" company="9.17" call="5.13" ><![CDATA[“”]]></Row>
+		<Row year="2000" month="08" kospi="688.62" kosdaq="1085.90" krw="1108.8" nation="7.79" company="8.98" call="5.12" ><![CDATA[“”]]></Row>
+		<Row year="2000" month="09" kospi="613.22" kosdaq="901.70" krw="1115.0" nation="8.07" company="9.04" call="5.09" ><![CDATA[“”]]></Row>
+		<Row year="2000" month="10" kospi="514.48" kosdaq="746.80" krw="1136.7" nation="7.64" company="8.59" call="5.37" ><![CDATA[“”]]></Row>
+		<Row year="2000" month="11" kospi="509.23" kosdaq="672.60" krw="1195.3" nation="7.16" company="8.35" call="5.32" ><![CDATA[“”]]></Row>
+		<Row year="2000" month="12" kospi="504.62" kosdaq="525.80" krw="1259.7" nation="6.70" company="8.13" call="6.08" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2001">
+		<Row year="2001" month="01" kospi="617.91" kosdaq="843.60" krw="1265.5" nation="5.68" company="7.38" call="5.27" ><![CDATA[“”]]></Row>
+		<Row year="2001" month="02" kospi="578.10" kosdaq="767.60" krw="1245.7" nation="5.43" company="6.77" call="5.06" ><![CDATA[“”]]></Row>
+		<Row year="2001" month="03" kospi="523.22" kosdaq="684.30" krw="1328.0" nation="6.31" company="7.69" call="4.96" ><![CDATA[“”]]></Row>
+		<Row year="2001" month="04" kospi="577.36" kosdaq="789.70" krw="1324.7" nation="6.8" company="8.05" call="5.01" ><![CDATA[“”]]></Row>
+		<Row year="2001" month="05" kospi="612.16" kosdaq="813.50" krw="1292.9" nation="6.17" company="7.37" call="5.01" ><![CDATA[“”]]></Row>
+		<Row year="2001" month="06" kospi="595.13" kosdaq="768.70" krw="1300.7" nation="5.93" company="7.10" call="4.99" ><![CDATA[“”]]></Row>
+		<Row year="2001" month="07" kospi="541.55" kosdaq="680.90" krw="1301.4" nation="5.58" company="6.89" call="4.77" ><![CDATA[“”]]></Row>
+		<Row year="2001" month="08" kospi="545.11" kosdaq="618.40" krw="1283.8" nation="5.15" company="6.55" call="4.54" ><![CDATA[“”]]></Row>
+		<Row year="2001" month="09" kospi="479.68" kosdaq="516.40" krw="1309.1" nation="4.45" company="5.95" call="4.00" ><![CDATA[“”]]></Row>
+		<Row year="2001" month="10" kospi="537.81" kosdaq="625.50" krw="1296.1" nation="4.98" company="6.59" call="4.02" ><![CDATA[“”]]></Row>
+		<Row year="2001" month="11" kospi="643.89" kosdaq="705.20" krw="1274.0" nation="5.68" company="6.99" call="4.04" ><![CDATA[“”]]></Row>
+		<Row year="2001" month="12" kospi="693.70" kosdaq="722.10" krw="1326.1" nation="5.91" company="7.04" call="4.01" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2002">	
+		<Row year="2002" month="01" kospi="748.07" kosdaq="773.60" krw="1314.8" nation="6.03" company="6.97" call="3.98" ><![CDATA[“”]]></Row>
+		<Row year="2002" month="02" kospi="819.99" kosdaq="787.10" krw="1327.7" nation="5.71" company="6.68" call="4.01" ><![CDATA[“”]]></Row>
+		<Row year="2002" month="03" kospi="895.58" kosdaq="927.30" krw="1326.4" nation="6.39" company="7.07" call="4.00" ><![CDATA[“”]]></Row>
+		<Row year="2002" month="04" kospi="842.34" kosdaq="733.40" krw="1292.2" nation="6.33" company="7.11" call="4.04" ><![CDATA[“”]]></Row>
+		<Row year="2002" month="05" kospi="796.40" kosdaq="697.80" krw="1233.3" nation="6.14" company="6.90" call="4.28" ><![CDATA[“”]]></Row>
+		<Row year="2002" month="06" kospi="742.72" kosdaq="608.50" krw="1201.8" nation="5.66" company="6.59" call="4.26" ><![CDATA[“”]]></Row>
+		<Row year="2002" month="07" kospi="717.99" kosdaq="586.20" krw="1197.0" nation="5.54" company="6.42" call="4.27" ><![CDATA[“”]]></Row>
+		<Row year="2002" month="08" kospi="736.40" kosdaq="591.10" krw="1200.5" nation="5.45" company="6.23" call="4.28" ><![CDATA[“”]]></Row>
+		<Row year="2002" month="09" kospi="646.42" kosdaq="467.10" krw="1225.5" nation="5.30" company="6.00" call="4.28" ><![CDATA[“”]]></Row>
+		<Row year="2002" month="10" kospi="658.92" kosdaq="480.50" krw="1233.4" nation="5.33" company="5.95" call="4.28" ><![CDATA[“”]]></Row>
+		<Row year="2002" month="11" kospi="724.80" kosdaq="519.00" krw="1208.0" nation="5.35" company="5.96" call="4.28" ><![CDATA[“”]]></Row>
+		<Row year="2002" month="12" kospi="627.55" kosdaq="443.60" krw="1200.4" nation="5.11" company="5.68" call="4.52" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2003">
+		<Row year="2003" month="01" kospi="583.35" kosdaq="433.90" krw="1170.5" nation="4.77" company="5.29" call="4.34" ><![CDATA[“”]]></Row>
+		<Row year="2003" month="02" kospi="575.43" kosdaq="417.80" krw="1186.8" nation="4.60" company="5.14" call="4.27" ><![CDATA[“”]]></Row>
+		<Row year="2003" month="03" kospi="535.70" kosdaq="377.70" krw="1252.9" nation="4.62" company="5.38" call="4.27" ><![CDATA[“”]]></Row>
+		<Row year="2003" month="04" kospi="599.35" kosdaq="428.00" krw="1213.1" nation="4.46" company="5.32" call="4.26" ><![CDATA[“”]]></Row>
+		<Row year="2003" month="05" kospi="633.42" kosdaq="471.80" krw="1205.3" nation="4.10" company="5.21" call="4.01" ><![CDATA[“”]]></Row>
+		<Row year="2003" month="06" kospi="669.93" kosdaq="497.50" krw="1193.1" nation="4.16" company="5.45" call="4.10" ><![CDATA[“”]]></Row>
+		<Row year="2003" month="07" kospi="713.52" kosdaq="493.30" krw="1180.0" nation="4.58" company="5.87" call="3.75" ><![CDATA[“”]]></Row>
+		<Row year="2003" month="08" kospi="759.47" kosdaq="495.40" krw="1178.5" nation="4.46" company="5.60" call="3.72" ><![CDATA[“”]]></Row>
+		<Row year="2003" month="09" kospi="697.52" kosdaq="448.60" krw="1150.2" nation="4.11" company="5.05" call="3.77" ><![CDATA[“”]]></Row>
+		<Row year="2003" month="10" kospi="782.36" kosdaq="463.80" krw="1177.3" nation="4.48" company="5.32" call="3.84" ><![CDATA[“”]]></Row>
+		<Row year="2003" month="11" kospi="796.18" kosdaq="458.40" krw="1203.6" nation="4.88" company="5.60" call="3.78" ><![CDATA[“”]]></Row>
+		<Row year="2003" month="12" kospi="810.71" kosdaq="448.70" krw="1197.8" nation="4.82" company="5.58" call="3.97" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2004">
+		<Row year="2004" month="01" kospi="848.50" kosdaq="441.45" krw="1174.9" nation="4.94" company="5.74" call="3.78" ><![CDATA[“”]]></Row>
+		<Row year="2004" month="02" kospi="883.42" kosdaq="428.68" krw="1176.5" nation="4.78" company="5.56" call="3.78" ><![CDATA[“”]]></Row>
+		<Row year="2004" month="03" kospi="880.50" kosdaq="434.16" krw="1153.6" nation="4.50" company="5.30" call="3.74" ><![CDATA[“”]]></Row>
+		<Row year="2004" month="04" kospi="862.84" kosdaq="453.47" krw="1167.7" nation="4.43" company="5.14" call="3.76" ><![CDATA[“”]]></Row>
+		<Row year="2004" month="05" kospi="803.84" kosdaq="400.92" krw="1165.7" nation="4.24" company="4.91" call="3.77" ><![CDATA[“”]]></Row>
+		<Row year="2004" month="06" kospi="785.79" kosdaq="385.18" krw="1152.5" nation="4.24" company="4.84" call="3.78" ><![CDATA[“”]]></Row>
+		<Row year="2004" month="07" kospi="735.34" kosdaq="331.21" krw="1171.3" nation="4.08" company="4.65" call="3.77" ><![CDATA[“”]]></Row>
+		<Row year="2004" month="08" kospi="803.57" kosdaq="355.66" krw="1153.8" nation="3.56" company="4.11" call="3.52" ><![CDATA[“”]]></Row>
+		<Row year="2004" month="09" kospi="835.09" kosdaq="362.08" krw="1147.9" nation="3.53" company="4.03" call="3.55" ><![CDATA[“”]]></Row>
+		<Row year="2004" month="10" kospi="834.84" kosdaq="357.04" krw="1122.3" nation="3.45" company="3.91" call="3.53" ><![CDATA[“”]]></Row>
+		<Row year="2004" month="11" kospi="878.06" kosdaq="373.43" krw="1047.9" nation="3.31" company="3.76" call="3.26" ><![CDATA[“”]]></Row>
+		<Row year="2004" month="12" kospi="895.92" kosdaq="380.33" krw="1043.8" nation="3.28" company="3.72" call="3.29" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2005">
+		<Row year="2005" month="01" kospi="932.70" kosdaq="472.95" krw="1026.4" nation="4.06" company="4.53" call="3.26" ><![CDATA[“”]]></Row>
+		<Row year="2005" month="02" kospi="1011.36" kosdaq="498.38" krw="1008.1" nation="4.04" company="4.49" call="3.28" ><![CDATA[“”]]></Row>
+		<Row year="2005" month="03" kospi="965.68" kosdaq="455.03" krw="1024.3" nation="3.91" company="4.34" call="3.26" ><![CDATA[“”]]></Row>
+		<Row year="2005" month="04" kospi="911.30" kosdaq="424.40" krw="1001.8" nation="3.76" company="4.18" call="3.29" ><![CDATA[“”]]></Row>
+		<Row year="2005" month="05" kospi="970.21" kosdaq="471.48" krw="1002.5" nation="3.67" company="4.08" call="3.29" ><![CDATA[“”]]></Row>
+		<Row year="2005" month="06" kospi="1008.16" kosdaq="503.21" krw="1024.4" nation="4.02" company="4.41" call="3.30" ><![CDATA[“”]]></Row>
+		<Row year="2005" month="07" kospi="1111.29" kosdaq="546.68" krw="1025.7" nation="4.23" company="4.63" call="3.27" ><![CDATA[“”]]></Row>
+		<Row year="2005" month="08" kospi="1083.33" kosdaq="503.95" krw="1031.0" nation="4.16" company="4.59" call="3.25" ><![CDATA[“”]]></Row>
+		<Row year="2005" month="09" kospi="1221.01" kosdaq="571.95" krw="1038.0" nation="4.60" company="5.00" call="3.28" ><![CDATA[“”]]></Row>
+		<Row year="2005" month="10" kospi="1158.11" kosdaq="587.46" krw="1042.7" nation="4.95" company="5.34" call="3.51" ><![CDATA[“”]]></Row>
+		<Row year="2005" month="11" kospi="1297.44" kosdaq="712.39" krw="1036.3" nation="5.10" company="5.51" call="3.50" ><![CDATA[“”]]></Row>
+		<Row year="2005" month="12" kospi="1379.37" kosdaq="701.79" krw="1013.0" nation="5.08" company="5.52" call="3.76" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2006">
+		<Row year="2006" month="01" kospi="1399.83" kosdaq="690.24" krw="971.0" nation="4.92" company="5.42" call="3.76" ><![CDATA[“”]]></Row>
+		<Row year="2006" month="02" kospi="1371.59" kosdaq="682.36" krw="969.0" nation="4.90" company="5.34" call="3.99" ><![CDATA[“”]]></Row>
+		<Row year="2006" month="03" kospi="1359.60" kosdaq="665.21" krw="975.9" nation="4.93" company="5.25" call="3.97" ><![CDATA[“”]]></Row>
+		<Row year="2006" month="04" kospi="1419.73" kosdaq="685.44" krw="945.7" nation="4.81" company="5.08" call="3.97" ><![CDATA[“”]]></Row>
+		<Row year="2006" month="05" kospi="1317.70" kosdaq="630.50" krw="947.4" nation="4.72" company="5.00" call="3.96" ><![CDATA[“”]]></Row>
+		<Row year="2006" month="06" kospi="1295.15" kosdaq="590.68" krw="960.3" nation="4.92" company="5.20" call="4.21" ><![CDATA[“”]]></Row>
+		<Row year="2006" month="07" kospi="1297.82" kosdaq="557.66" krw="953.1" nation="4.83" company="5.15" call="4.22" ><![CDATA[“”]]></Row>
+		<Row year="2006" month="08" kospi="1352.74" kosdaq="572.83" krw="959.6" nation="4.76" company="5.09" call="4.49" ><![CDATA[“”]]></Row>
+		<Row year="2006" month="09" kospi="1371.41" kosdaq="600.42" krw="945.2" nation="4.57" company="4.89" call="4.48" ><![CDATA[“”]]></Row>
+		<Row year="2006" month="10" kospi="1364.55" kosdaq="586.10" krw="944.2" nation="4.71" company="5.01" call="4.48" ><![CDATA[“”]]></Row>
+		<Row year="2006" month="11" kospi="1432.21" kosdaq="622.17" krw="929.9" nation="4.82" company="5.16" call="4.49" ><![CDATA[“”]]></Row>
+		<Row year="2006" month="12" kospi="1434.46" kosdaq="606.15" krw="929.6" nation="4.92" company="5.29" call="4.60" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2007">
+		<Row year="2007" month="01" kospi="1360.23" kosdaq="576.37" krw="940.9" nation="5.02" company="5.38" call="4.61" ><![CDATA[“”]]></Row>
+		<Row year="2007" month="02" kospi="1417.34" kosdaq="600.93" krw="938.3" nation="4.86" company="5.24" call="4.55" ><![CDATA[“”]]></Row>
+		<Row year="2007" month="03" kospi="1452.55" kosdaq="648.99" krw="940.3" nation="4.76" company="5.19" call="4.63" ><![CDATA[“”]]></Row>
+		<Row year="2007" month="04" kospi="1542.24" kosdaq="675.88" krw="929.4" nation="5.05" company="5.44" call="4.88" ><![CDATA[“”]]></Row>
+		<Row year="2007" month="05" kospi="1700.91" kosdaq="747.87" krw="929.9" nation="5.17" company="5.55" call="4.56" ><![CDATA[“”]]></Row>
+		<Row year="2007" month="06" kospi="1743.60" kosdaq="778.69" krw="926.8" nation="5.26" company="5.66" call="4.52" ><![CDATA[“”]]></Row>
+		<Row year="2007" month="07" kospi="1933.27" kosdaq="811.52" krw="923.2" nation="5.22" company="5.64" call="4.76" ><![CDATA[“”]]></Row>
+		<Row year="2007" month="08" kospi="1873.24" kosdaq="775.13" krw="939.9" nation="5.43" company="5.85" call="4.98" ><![CDATA[“”]]></Row>
+		<Row year="2007" month="09" kospi="1946.48" kosdaq="794.56" krw="920.7" nation="5.46" company="5.97" call="4.98" ><![CDATA[“”]]></Row>
+		<Row year="2007" month="10" kospi="2064.85" kosdaq="810.07" krw="907.4" nation="5.43" company="6.02" call="5.02" ><![CDATA[“”]]></Row>
+		<Row year="2007" month="11" kospi="1906.00" kosdaq="741.84" krw="929.6" nation="5.77" company="6.47" call="5.02" ><![CDATA[“”]]></Row>
+		<Row year="2007" month="12" kospi="1897.13" kosdaq="704.23" krw="938.2" nation="5.74" company="6.77" call="5.02" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2008">
+		<Row year="2008" month="01" kospi="1624.68" kosdaq="608.84" krw="943.9" nation="5.04" company="6.28" call="4.96" ><![CDATA[“”]]></Row>
+		<Row year="2008" month="02" kospi="1711.62" kosdaq="655.94" krw="937.3" nation="4.97" company="6.14" call="4.94" ><![CDATA[“”]]></Row>
+		<Row year="2008" month="03" kospi="1703.99" kosdaq="644.45" krw="991.7" nation="5.10" company="6.01" call="4.98" ><![CDATA[“”]]></Row>
+		<Row year="2008" month="04" kospi="1825.47" kosdaq="647.02" krw="999.7" nation="4.88" company="5.82" call="4.95" ><![CDATA[“”]]></Row>
+		<Row year="2008" month="05" kospi="1852.02" kosdaq="652.15" krw="1031.4" nation="5.46" company="6.41" call="5.04" ><![CDATA[“”]]></Row>
+		<Row year="2008" month="06" kospi="1674.92" kosdaq="590.19" krw="1043.4" nation="5.90" company="6.88" call="5.01" ><![CDATA[“”]]></Row>
+		<Row year="2008" month="07" kospi="1594.67" kosdaq="539.44" krw="1008.5" nation="5.80" company="6.91" call="5.03" ><![CDATA[“”]]></Row>
+		<Row year="2008" month="08" kospi="1474.24" kosdaq="470.28" krw="1081.8" nation="5.77" company="7.34" call="5.25" ><![CDATA[“”]]></Row>
+		<Row year="2008" month="09" kospi="1448.06" kosdaq="440.77" krw="1187.7" nation="5.74" company="7.76" call="5.22" ><![CDATA[“”]]></Row>
+		<Row year="2008" month="10" kospi="1113.06" kosdaq="308.03" krw="1291.4" nation="4.47" company="8.13" call="4.14" ><![CDATA[“”]]></Row>
+		<Row year="2008" month="11" kospi="1076.07" kosdaq="307.48" krw="1482.7" nation="4.87" company="8.91" call="3.99" ><![CDATA[“”]]></Row>
+		<Row year="2008" month="12" kospi="1124.47" kosdaq="332.05" krw="1257.5" nation="3.41" company="7.72" call="3.02" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2009">
+		<Row year="2009" month="01" kospi="1162.11" kosdaq="364.90" krw="1368.5" nation="3.59" company="7.29" call="2.41" ><![CDATA[“”]]></Row>
+		<Row year="2009" month="02" kospi="1063.03" kosdaq="363.21" krw="1516.4" nation="3.82" company="6.60" call="1.87" ><![CDATA[“”]]></Row>
+		<Row year="2009" month="03" kospi="1206.26" kosdaq="421.44" krw="1377.1" nation="3.94" company="6.13" call="1.73" ><![CDATA[“”]]></Row>
+		<Row year="2009" month="04" kospi="1369.36" kosdaq="500.98" krw="1348.0" nation="3.59" company="5.29" call="1.85" ><![CDATA[“”]]></Row>
+		<Row year="2009" month="05" kospi="1395.89" kosdaq="528.80" krw="1272.9" nation="3.83" company="4.98" call="1.96" ><![CDATA[“”]]></Row>
+		<Row year="2009" month="06" kospi="1390.07" kosdaq="485.15" krw="1284.7" nation="4.16" company="5.39" call="1.96" ><![CDATA[“”]]></Row>
+		<Row year="2009" month="07" kospi="1557.29" kosdaq="504.35" krw="1240.5" nation="4.26" company="5.68" call="1.95" ><![CDATA[“”]]></Row>
+		<Row year="2009" month="08" kospi="1591.85" kosdaq="514.70" krw="1244.9" nation="4.38" company="5.61" call="1.99" ><![CDATA[“”]]></Row>
+		<Row year="2009" month="09" kospi="1673.14" kosdaq="505.94" krw="1188.7" nation="4.39" company="5.53" call="2.00" ><![CDATA[“”]]></Row>
+		<Row year="2009" month="10" kospi="1580.69" kosdaq="486.46" krw="1200.6" nation="4.44" company="5.58" call="2.01" ><![CDATA[“”]]></Row>
+		<Row year="2009" month="11" kospi="1555.60" kosdaq="464.32" krw="1167.4" nation="4.10" company="5.21" call="2.01" ><![CDATA[“”]]></Row>
+		<Row year="2009" month="12" kospi="1682.77" kosdaq="513.57" krw="1167.6" nation="4.41" company="5.53" call="2.01" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2010">
+		<Row year="2010" month="01" kospi="1602.43" kosdaq="496.57" krw="1156.5" nation="4.27" company="5.39" call="2.00" ><![CDATA[“”]]></Row>
+		<Row year="2010" month="02" kospi="1594.58" kosdaq="507.03" krw="1158.4" nation="4.10" company="5.24" call="2.01" ><![CDATA[“”]]></Row>
+		<Row year="2010" month="03" kospi="1692.85" kosdaq="515.74" krw="1130.8" nation="3.89" company="4.89" call="2.00" ><![CDATA[“”]]></Row>
+		<Row year="2010" month="04" kospi="1741.56" kosdaq="523.75" krw="1115.5" nation="3.61" company="4.41" call="2.00" ><![CDATA[“”]]></Row>
+		<Row year="2010" month="05" kospi="1641.25" kosdaq="489.42" krw="1200.2" nation="3.58" company="4.45" call="2.00" ><![CDATA[“”]]></Row>
+		<Row year="2010" month="06" kospi="1698.29" kosdaq="489.98" krw="1210.3" nation="3.86" company="4.77" call="2.03" ><![CDATA[“”]]></Row>
+		<Row year="2010" month="07" kospi="1759.33" kosdaq="481.45" krw="1187.2" nation="3.80" company="4.75" call="2.28" ><![CDATA[“”]]></Row>
+		<Row year="2010" month="08" kospi="1742.75" kosdaq="464.71" krw="1189.1" nation="3.55" company="4.53" call="2.28" ><![CDATA[“”]]></Row>
+		<Row year="2010" month="09" kospi="1872.81" kosdaq="492.75" krw="1142.0" nation="3.32" company="4.26" call="2.27" ><![CDATA[“”]]></Row>
+		<Row year="2010" month="10" kospi="1882.95" kosdaq="526.45" krw="1126.6" nation="3.25" company="4.03" call="2.26" ><![CDATA[“”]]></Row>
+		<Row year="2010" month="11" kospi="1904.63" kosdaq="498.39" krw="1157.3" nation="3.19" company="4.03" call="2.51" ><![CDATA[“”]]></Row>
+		<Row year="2010" month="12" kospi="2051.00" kosdaq="510.69" krw="1138.9" nation="3.38" company="4.27" call="2.51" ><![CDATA[“”]]></Row>
+	</date>
+	<date year="2011">
+		<Row year="2011" month="01" kospi="2069.73" kosdaq="521.38" krw="1114.3" nation="3.96" company="4.75" call="2.75" ><![CDATA[“”]]></Row>
+
+	</date>
+</Rows>
+
+<StockNews>
+	<date year="1993">
+		<Row date="8/12"><![CDATA[금융실명제]]></Row>
+	</date>
+	<date year="1994">
+		<Row date="6/15"><![CDATA[KOSPI 200발표]]></Row>
+	</date>
+	<date year="1995">
+		<Row date="5/27"><![CDATA[증시안정대책]]></Row>
+	</date>
+	<date year="1996">
+		<Row date="5/3"><![CDATA[주가지수 선물시장 개장]]></Row>
+		<Row date="12/27"><![CDATA[증시수요기반 확충대책]]></Row>
+	</date>
+	<date year="1997">
+		<Row date="7/7"><![CDATA[주가지수 옵션시장 개장]]></Row>
+		<Row date="12/3"><![CDATA[IMF 지원합의]]></Row>
+	</date>
+	<date year="1998">
+		<Row date="6/28"><![CDATA[퇴출기업, 은행 발표]]></Row>
+	</date>
+	<date year="1999">
+		<Row date="5/6"><![CDATA[BOK 콜금리 현수준 유지(4.75%) : 첫 명시]]></Row>
+		<Row date="9/18"><![CDATA[금융시장안정대책]]></Row>
+	</date>
+	<date year="2000">
+		<Row date="2/10"><![CDATA[BOK 콜금리 인상(4.75% -> 5.00%)]]></Row>
+		<Row date="4/17"><![CDATA[서킷브레이커 첫 발동]]></Row>
+		<Row date="5월"><![CDATA[금융기관의 회사채 보유한도제 폐지]]></Row>
+		<Row date=""><![CDATA[국채통합발행재(fungible issue)도입]]></Row>
+		<Row date="7/1"><![CDATA[채권시가평가제 확대 시행]]></Row>
+		<Row date="8월"><![CDATA[국채입찰방식 변경(Conventional -> Dutch)]]></Row>
+		<Row date="10/5"><![CDATA[BOK 콜금리 인상(5.00% -> 5.25%)]]></Row>
+		<Row date="12월"><![CDATA[국채환매(buy-back) 제도 도입]]></Row>
+		<Row date=""><![CDATA[산업은행 신속인수제 도입(2001년말까지 한시)]]></Row>
+	</date>
+	<date year="2001">
+		<Row date="2/8"><![CDATA[BOK 콜금리 인상(5.25% -> 5.0%)]]></Row>
+		<Row date="7/5"><![CDATA[BOK 콜금리 인하(5.00% -> 4.75%)]]></Row>
+		<Row date="8/9"><![CDATA[BOK 콜금리 인하(4.75% -> 4.5%)]]></Row>
+		<Row date="9/19"><![CDATA[BOK 콜금리 인하(4.5% -> 4.0%)]]></Row>
+		<Row date="12/27"><![CDATA[ECN 개장]]></Row>
+	</date>
+	<date year="2002">
+		<Row date="5/7"><![CDATA[BOK 콜금리 인상(4.0% -> 4.25%)]]></Row>
+	</date>
+	<date year="2003">
+		<Row date="3/5"><![CDATA[국고채 통합발행주기 6개월로 변경]]></Row>
+		<Row date="5/13"><![CDATA[BOK 콜금리 인하(4.25% -> 4.0%)]]></Row>
+		<Row date="7/10"><![CDATA[BOK 콜금리 인하(4.0% -> 3.75%)]]></Row>
+		<Row date="7/21"><![CDATA[배당지수(KODI) 도입]]></Row>
+		<Row date="9/30"><![CDATA[국민은행-국민카드 합병]]></Row>
+		<Row date="11/20"><![CDATA[KELP판매개시]]></Row>
+		<Row date="12/1"><![CDATA[기업지배구조지수(KOGI) 도입]]></Row>
+	</date>
+	<date year="2004">
+		<Row date="1/2"><![CDATA[외환시장 거래시간 변경(9시 -> 4시)]]></Row>
+		<Row date="4/1"><![CDATA[국민주택채권 등록 발행]]></Row>
+		<Row date="4/7"><![CDATA[증권거래소 시가총액 사상 첫 400조원]]></Row>
+		<Row date="4/13"><![CDATA[LG그룹, LG와 GS로 분할]]></Row>
+		<Row date="4.29"><![CDATA[중국쇼크로 증시폭락]]></Row>
+		<Row date="7/2"><![CDATA[외환시장안정용 국고채 발행한도 11조원 증액]]></Row>
+		<Row date="8/12"><![CDATA[BOK 콜금리 인하(3.75% -> 3.5%)]]></Row>
+		<Row date="10/7"><![CDATA[적립식 펀드 40만 계좌 육박]]></Row>
+		<Row date="10/28"><![CDATA[중국 금리 인상]]></Row>
+		<Row date="11/1"><![CDATA[한미, 씨티은행 합병]]></Row>
+		<Row date="11/11"><![CDATA[BOK 콜금리 인하(3.5% -> 3.25%)]]></Row>
+		<Row date="11/15"><![CDATA[환율 7년만에 1,000원대 진입]]></Row>
+		<Row date="12/14"><![CDATA[사모펀드(PEF) 제도 도입]]></Row>
+	</date>
+	<date year="2005">
+		<Row date="3/2"><![CDATA[외환시장 거래시간 변경(9시~3시)]]></Row>
+		<Row date="3/28"><![CDATA[코스닥 가격 변동폭 확대(12% -> 15%)]]></Row>
+		<Row date="6/1"><![CDATA[KRX100지수 도입]]></Row>
+		<Row date="6/31"><![CDATA[채권상장잔액 700조원 돌파]]></Row>
+		<Row date="8/23"><![CDATA[소버린 LG자분 매각]]></Row>
+		<Row date="10/11"><![CDATA[BOK 콜금리 인상(3.25% -> 3.5%)]]></Row>
+		<Row date="11/23"><![CDATA[KOSPI 시가총액 600조원 돌파]]></Row>
+		<Row date="12/1"><![CDATA[ELW시장 개장]]></Row>
+		<Row date=""><![CDATA[지상파 DMB서비스]]></Row>
+		<Row date=""><![CDATA[ECB 기준금리 인상(2% -> 2.25%)]]></Row>
+		<Row date="12/8"><![CDATA[BOK 콜금리 인상(3.5% -> 3.75%)]]></Row>
+	</date>
+	<date year="2006">
+		<Row date="1/4"><![CDATA[KOSPI 1400P 돌파]]></Row>
+		<Row date="2/9"><![CDATA[BOK 콜금리 인상(3.75% -> 4.0%)]]></Row>
+		<Row date="4/1"><![CDATA[신한, 조흥은행 통합 완료]]></Row>
+		<Row date="4/28"><![CDATA[중국인민은행 대출금리 인상(5.58 -> 5.85%)]]></Row>
+		<Row date="6/8"><![CDATA[BOK 콜금리 인상(4.0% -> 4.25%)]]></Row>
+		<Row date="7/14"><![CDATA[일본 중앙은행 기준금리인상(0 -> 0.25%)]]></Row>
+		<Row date="8/10"><![CDATA[BOK 콜금리 인상(4.25% -> 4.5%)]]></Row>
+		<Row date="10월"><![CDATA[ELS판매 20조원 돌파]]></Row>
+		<Row date="11/3"><![CDATA[BOK 원화예금 지급준비율 조정(요구분예금 5 -> 7%)]]></Row>
+		<Row date="12/7"><![CDATA[BOK 외화예금 지급준비율 조정(요구분예금 5 -> 7%)]]></Row>
+		<Row date="12/8"><![CDATA[ECB 기준금리 인상(3.25 -> 3.5%)]]></Row>
+	</date>
+	<date year="2007">
+		<Row date="2/21"><![CDATA[일본 기준금리인상(0.25 -> 0.5%)]]></Row>
+		<Row date="3/8"><![CDATA[ECB 기준금리 인상(3.5% -> 3.75%)]]></Row>
+		<Row date="3/18"><![CDATA[중국인민은행 금리 0.27%P 인상]]></Row>
+		<Row date="5/19"><![CDATA[중국인민은행 금리 0.18%P 인상]]></Row>
+		<Row date=""><![CDATA[위안화 변동폭 0.5%로 0.2%P 확대]]></Row>
+		<Row date="6/6"><![CDATA[ECB 기준금리 인상(3.75% -> 4.00%)]]></Row>
+		<Row date="7/12"><![CDATA[BOK 콜금리 인상(4.5% -> 4.75%)]]></Row>
+		<Row date="7/20"><![CDATA[중국인민은행 금리 0.27%P 인상]]></Row>
+		<Row date="8/9"><![CDATA[BOK 콜금리 인상(4.75% -> 5.00%)]]></Row>
+		<Row date="8/17"><![CDATA[FRB 재할인률 0.5% 인하]]></Row>
+		<Row date="8/21"><![CDATA[중국인민은행 금리 0.18%P 인상]]></Row>
+		<Row date="9/14"><![CDATA[중국인민은행 금리 0.27%P 인상]]></Row>
+		<Row date="9/18"><![CDATA[FRB 기준금리 인하(5.25% -> 4.75%)]]></Row>
+		<Row date="10/31"><![CDATA[FRB 기준금리 인하(4.75% -> 4.50%)]]></Row>
+		<Row date="12/11"><![CDATA[FRB 기준금리 인하(4.50% -> 4.25%)]]></Row>
+
+	</date>
+	<date year="2008">
+		<Row date="1/22"><![CDATA[FRB 기준금리 인하(4.25% -> 3.50%)]]></Row>
+		<Row date="1/30"><![CDATA[FRB 기준금리 인하(3.50% -> 3.00%)]]></Row>
+		<Row date="3/18"><![CDATA[FRB 기준금리 인하(3.00% -> 2.25%)]]></Row>
+		<Row date="4/30"><![CDATA[FRB 기준금리 인하(2.25% -> 2.00%)]]></Row>
+		<Row date="8/7"><![CDATA[BOK 기준금리 인상(5.00% -> 5.25%)]]></Row>
+		<Row date="10/8"><![CDATA[FRB 기준금리 인하(2.00% -> 1.50%)]]></Row>
+		<Row date=""><![CDATA[ECB, 영국, 스웨덴, 스위스, 케나다, 중국 동반인하]]></Row>
+		<Row date="10/9"><![CDATA[BOK 기준금리 인하(5.25% -> 5.00%)]]></Row>
+		<Row date="10/24"><![CDATA[KOSPI 1,000붕괴(938.75)]]></Row>
+		<Row date="10/27"><![CDATA[BOK 기준금리 인하(5.00% -> 4.25%)]]></Row>
+		<Row date="11/7"><![CDATA[BOK 기준금리 인하(4.25% -> 4.00%)]]></Row>
+		<Row date="11/14"><![CDATA[환율 10년 8개월만에 1,500원 돌파]]></Row>
+		<Row date="12/11"><![CDATA[BOK 기준금리 인하(4.00% -> 3.00%)]]></Row>
+		<Row date="12/16"><![CDATA[FRB 기준금리 인하(1.00% -> 0.25%)]]></Row>
+	</date>
+	<date year="2009">
+		<Row date="1/9"><![CDATA[BOK 기준금리 인하(3.00% -> 2.50%)]]></Row>
+		<Row date="2/12"><![CDATA[BOK 기준금리 인하(2.50% -> 2.00%)]]></Row>
+	</date>
+	<date year="2010">
+		<Row date="1/12"><![CDATA[중국 지준율 인상(15.5% -> 16.0%)]]></Row>
+		<Row date="2/12"><![CDATA[중국 지준율 인상(16.0% -> 16.5%)]]></Row>
+		<Row date="2/19"><![CDATA[FRB 재할인율 인상(0.50% -> 0.75%)]]></Row>
+		<Row date="3/2"><![CDATA[호주 기준금리 인상(3.75% -> 4.00%)]]></Row>
+		<Row date="4/6"><![CDATA[호주 기준금리 인상(4.00% -> 4.25%)]]></Row>
+		<Row date="5/2"><![CDATA[중국 지준율 인상(16.5% -> 17.0%)]]></Row>
+		<Row date="5/4"><![CDATA[호주 기준금리 인상(4.25% -> 4.50%)]]></Row>
+		<Row date="7/9"><![CDATA[BOK 기준금리 인상(2.00% -> 2.25%)]]></Row>
+		<Row date="10/19"><![CDATA[중국인민은행 금리 25bp 인상]]></Row>
+		<Row date="11/2"><![CDATA[호주 기준금리 인상(4.50% -> 4.75%)]]></Row>
+		<Row date="11/10"><![CDATA[중국 지준율 인상(17.0% -> 17.5%)]]></Row>
+		<Row date="11/16"><![CDATA[BOK 기준금리 인상(2.25% -> 2.50%)]]></Row>
+		<Row date="11/19"><![CDATA[중국 지준율 인상(17.5% -> 18.0%)]]></Row>
+		<Row date="12/10"><![CDATA[중국 지준율 인상(18.0% -> 18.5%)]]></Row>
+		<Row date="12/14"><![CDATA[KOSPI 2,000 돌파]]></Row>
+	</date>
+	<date year="2011">
+		<Row date=""><![CDATA[]]></Row>
+	</date>
+</StockNews>
+
+<News>
+	<date year="1993">
+		<Row date="1/1"><![CDATA[EC, 단일유럽시장 출범]]></Row>
+		<Row date="1/25"><![CDATA[펀드간 자전거래 규제]]></Row>
+		<Row date="1/26"><![CDATA[한은 재할인율 인하]]></Row>
+		<Row date="2/4"><![CDATA[해외증권투자축진방안 발표]]></Row>
+		<Row date="4/9"><![CDATA[통안채 경쟁입찰로 발행]]></Row>
+		<Row date="4/21"><![CDATA[투신 국공채 투자한도 30%까지 확대]]></Row>
+		<Row date="5/17"><![CDATA[투자자문사 일임매매 허용]]></Row>
+		<Row date="6/29"><![CDATA[제3단계 금융자율화 및 시장개방계획 발표]]></Row>
+		<Row date="7/1"><![CDATA[신경제 5개년 계획 발표]]></Row>
+		<Row date=""><![CDATA[대표수익률 -> 최종호가 수익률]]></Row>
+		<Row date="8/12"><![CDATA[금융실명제 실시]]></Row>
+		<Row date="9/6"><![CDATA[투신 주식매물 흡수대책 발표]]></Row>
+		<Row date="11/1"><![CDATA[2단계 금리자유화]]></Row>
+		<Row date=""><![CDATA[마스트리히트 조약 발효(EC -> EU)]]></Row>
+		<Row date="12/29"><![CDATA[공기업민영화계획 발표]]></Row>
+	</date>
+	<date year="1994">
+		<Row date="1월"><![CDATA[국채 발행방법 변경(인수배정방식 -> 국채인수단 참여 경쟁입찰방식)]]></Row>
+		<Row date="1/14"><![CDATA[1차 증시안정대책]]></Row>
+		<Row date="3/25"><![CDATA[국민주제도 폐지방침 발표]]></Row>
+		<Row date="4/15"><![CDATA[우루과이라운드 협상 종결]]></Row>
+		<Row date="6/15"><![CDATA[KOSPI200 발표]]></Row>
+		<Row date="6/16"><![CDATA[3단계 금리자유화 부분시행]]></Row>
+		<Row date="6/20"><![CDATA[개인연금제도 시행]]></Row>
+		<Row date="7/9"><![CDATA[북한 김일성 주석 사망]]></Row>
+		<Row date="9월"><![CDATA[삼성전자 등 최초 FRN 발행]]></Row>
+		<Row date="9/16"><![CDATA[KOSPI 1,000 포인트 돌파]]></Row>
+		<Row date="9/23"><![CDATA[한전, 포철의 해외DR발행허용]]></Row>
+		<Row date="10/21"><![CDATA[성수대교 붕괴]]></Row>
+		<Row date="12/1"><![CDATA[외국인 주식투자한도 확대]]></Row>
+		<Row date="12/22"><![CDATA[멕시코 통화위기 발생]]></Row>
+		<Row date="12/23"><![CDATA[자본시장 선진화 방안 마련]]></Row>
+	</date>
+	<date year="1995">
+		<Row date="1/1"><![CDATA[WTO 출범]]></Row>
+		<Row date="1/17"><![CDATA[일본 코베 대지진 발생]]></Row>
+		<Row date="1/22"><![CDATA[금융산업개편방안 마련]]></Row>
+		<Row date="1/28"><![CDATA[증시 부양책 발표]]></Row>
+		<Row date="2/26"><![CDATA[영국 베어링 은행 파산]]></Row>
+		<Row date="4/10"><![CDATA[증권사 주식취득확대 등 부양책 발표]]></Row>
+		<Row date="4/26"><![CDATA[주가 증시 부양책 발표]]></Row>
+		<Row date="5/24"><![CDATA[주식형 수익증권 환매방식 변경]]></Row>
+		<Row date="5/27"><![CDATA[증시안정대책 발표]]></Row>
+		<Row date="5/30"><![CDATA[S&P, 국가신용등급 상향(AA-)]]></Row>
+		<Row date="6/29"><![CDATA[삼풍백화점 붕괴]]></Row>
+		<Row date="7/1"><![CDATA[부동산 실명제]]></Row>
+		<Row date=""><![CDATA[외국인 주식투자한도 확대]]></Row>
+		<Row date="7/22"><![CDATA[채권시장 정비방안 발표]]></Row>
+		<Row date="11/17"><![CDATA[3단계 금리자유화 조기 완결]]></Row>
+		<Row date="12/19"><![CDATA[증안기금 개입검토]]></Row>
+	</date>
+	<date year="1996">
+		<Row date="2/26"><![CDATA[주식시장 개방 확대 및 해외증권투자 자유화 계획발표]]></Row>
+		<Row date="2/28"><![CDATA[주식장외시장 발전방안 발표]]></Row>
+		<Row date="3/5"><![CDATA[투신사 영업력 확충지원방안 발표]]></Row>
+		<Row date="4/1"><![CDATA[외국인 주식시장 개방 확대]]></Row>
+		<Row date="4/23"><![CDATA[지준율 인하(평균 9.5% -> 7.4%)]]></Row>
+		<Row date="5/3"><![CDATA[주가지수 선물시장 개설]]></Row>
+		<Row date="7/1"><![CDATA[코스닥 증권시장 개설]]></Row>
+		<Row date="7/27"><![CDATA[유가증권 대차제도 도입허용]]></Row>
+		<Row date="9/4"><![CDATA[외국인 주식투자한도확대 계획발표]]></Row>
+		<Row date="9/7"><![CDATA[투신의 MMF 취급 허용]]></Row>
+		<Row date="10/4"><![CDATA[한국통신 정부지분 매각방침 발표]]></Row>
+		<Row date="10/30"><![CDATA[투신시장 개방계획 발표]]></Row>
+		<Row date="11월"><![CDATA[사이드카 제도도입]]></Row>
+		<Row date="11/8"><![CDATA[지준율 인하(평균 7.4% -> 5.5%)]]></Row>
+		<Row date="11/28"><![CDATA[투신사 주식매수 기반확대 방안발표]]></Row>
+		<Row date="12/12"><![CDATA[OECD 가입]]></Row>
+		<Row date="12/17"><![CDATA[증시 수요기반확충방안 발표]]></Row>
+		<Row date="12/21"><![CDATA[국채발행제도 개선방안]]></Row>
+	</date>
+	<date year="1997">
+		<Row date="1/3"><![CDATA[코스닥 지수 발표 개시]]></Row>
+		<Row date="1/23"><![CDATA[한보철강 부도]]></Row>
+		<Row date="5/1"><![CDATA[외국인 주식투자한도 확대]]></Row>
+		<Row date="7/1"><![CDATA[수입자유화 확대]]></Row>
+		<Row date="7/2"><![CDATA[태국, 환율제도 변경 및 IMF 긴급자금 지원 요청]]></Row>
+		<Row date="7/7"><![CDATA[주가지수 옵션시장 개설]]></Row>
+		<Row date="7/14"><![CDATA[말레이지아, 링기트화 방어 포기]]></Row>
+		<Row date="7/15"><![CDATA[기아그룹 부도 유예 협약]]></Row>
+		<Row date="7/18"><![CDATA[투신사 환매수수료 자유화 발표]]></Row>
+		<Row date="8/5"><![CDATA[외수증권 발행확대 발표]]></Row>
+		<Row date="9/10"><![CDATA[진로그룹 등 5개사 최종 부도]]></Row>
+		<Row date="10/23"><![CDATA[기아차 법정관리 신청 결정]]></Row>
+		<Row date="10/24"><![CDATA[S&P, 국가신용등급 하향(A+)]]></Row>
+		<Row date="11/17"><![CDATA[환율 변동폭 제한 확대]]></Row>
+		<Row date="11/19"><![CDATA[금융시장 안정 및 금융산업 구조조정을 위한 종합대책 발표]]></Row>
+		<Row date="11/21"><![CDATA[IMF에 긴급구제금융 지원 신청]]></Row>
+		<Row date="12/16"><![CDATA[환율 변동폭 제한 폐지]]></Row>
+		<Row date="12/18"><![CDATA[대통령 선거]]></Row>
+		<Row date="12/21"><![CDATA[무디스, 투자부적격으로 하영(Ba1)]]></Row>
+		<Row date="12/29"><![CDATA[이자제한법 폐지]]></Row>
+	</date>
+	<date year="1998">
+		<Row date="1/13"><![CDATA[선물거래법 제정]]></Row>
+		<Row date="1/15"><![CDATA[제일, 서울은행 부실금융기관으로 결정]]></Row>
+		<Row date="1/19"><![CDATA[단기금융시장 조기개방방안 마련]]></Row>
+		<Row date="2/17"><![CDATA[10개 종금사 인가 취소]]></Row>
+		<Row date="4/8"><![CDATA[달러 표시 외평채 발행]]></Row>
+		<Row date=""><![CDATA[해외채권은행, 국내 금융기관의 단기외채 만기연장]]></Row>
+		<Row date="5/25"><![CDATA[외국인 주식투자한도 철폐]]></Row>
+		<Row date="6/18"><![CDATA[퇴출기업 발표]]></Row>
+		<Row date="6/29"><![CDATA[BIS 미달 5개 은행 퇴출]]></Row>
+		<Row date="8/14"><![CDATA[한남투신 영업정지]]></Row>
+		<Row date="8/17"><![CDATA[러시아 모라토리엄 선언]]></Row>
+		<Row date="8/20"><![CDATA[국채제도 개선 및 채권시장 활성화 방안 발표]]></Row>
+		<Row date="9/1"><![CDATA[회사채 수익률 기준 변경(보증 -> 무보증)]]></Row>
+		<Row date="9/30"><![CDATA[1차 구조조정 완료]]></Row>
+		<Row date="11/15"><![CDATA[채권 시가평가제도 시행]]></Row>
+		<Row date="10/28"><![CDATA[5대 그룹 회사채 보유 한도제 도입]]></Row>
+		<Row date="12/7"><![CDATA[증시 토요일 휴장]]></Row>
+		<Row date=""><![CDATA[일일주가변동폭 15%로 확대]]></Row>
+	</date>
+	<date year="1999">
+		<Row date="1/2"><![CDATA[금융감독원 설립]]></Row>
+		<Row date=""><![CDATA[국고채 발행 정례화]]></Row>
+		<Row date="1/25"><![CDATA[S&P, 국가신용등급 투자적격으로 상향(BBB-)]]></Row>
+		<Row date="1/28"><![CDATA[코스닥 시장 활성화 방안]]></Row>
+		<Row date="2/2"><![CDATA[무디스, 국가신용등급 투자적격으로 상향]]></Row>
+		<Row date="3/29"><![CDATA[국채전문 유통시장 개설]]></Row>
+		<Row date="4/23"><![CDATA[선물거래소 개장]]></Row>
+		<Row date="7/19"><![CDATA[대우 유동성 위기]]></Row>
+		<Row date="7/22"><![CDATA[국채전문딜러 지정]]></Row>
+		<Row date="8/24"><![CDATA[FRB 연방기금 금리 인상(5.0% -> 5.25%)]]></Row>
+		<Row date="8/26"><![CDATA[대우 12개 계열사 워크 아웃]]></Row>
+		<Row date="9/27"><![CDATA[채권 안정기금 출연]]></Row>
+		<Row date="9/29"><![CDATA[3년 국채선물 상장]]></Row>
+		<Row date="10/20"><![CDATA[하이일드 채권 유동성 제고방안 발표]]></Row>
+		<Row date="11/11"><![CDATA[S&P, 국가신용등급 상향조정(BBB)]]></Row>
+		<Row date="12/16"><![CDATA[무디스, 국가신용등급 상향조정(Baa2)]]></Row>
+		<Row date="12/17"><![CDATA[한투, 대투 공적 자금 투입]]></Row>
+		<Row date="12/23"><![CDATA[제일은행 해외 매각]]></Row>
+	</date>
+	<date year="2000">
+		<Row date="2/2"><![CDATA[FRB 기준금리 인상(5.5% -> 12월말 6.5%)]]></Row>
+		<Row date="2/23"><![CDATA[개방형 뮤추얼펀드 허용]]></Row>
+		<Row date="4/17"><![CDATA[사상 첫 서킷브레이크 발동]]></Row>
+		<Row date="4/18"><![CDATA[증시 안정책 발표]]></Row>
+		<Row date="5/21"><![CDATA[국고채 통합발행 시행]]></Row>
+		<Row date="5/22"><![CDATA[전, 후장 구분 폐지]]></Row>
+		<Row date="5/25"><![CDATA[현대그룹 구조조정 발표]]></Row>
+		<Row date="6/2"><![CDATA[한투, 대투 증권사 인가]]></Row>
+		<Row date="6/3"><![CDATA[BW 시장 개장]]></Row>
+		<Row date="6/13"><![CDATA[남북정상회담]]></Row>
+		<Row date="6/15"><![CDATA[Primary CBO 발행 활성화 위한 펀드 10조원 조성등 안정책 발표]]></Row>
+		<Row date="9/22"><![CDATA[공적자금 40조원 추가 조성]]></Row>
+		<Row date="10월"><![CDATA[10년 만기 국채 발행]]></Row>
+		<Row date="10/5"><![CDATA[2차 퇴출기업 기준 발표]]></Row>
+		<Row date="10/30"><![CDATA[현대건설 1차부도]]></Row>
+		<Row date="11/3"><![CDATA[퇴출기업발표(50개사)]]></Row>
+		<Row date="11/8"><![CDATA[대우차 최종부도]]></Row>
+		<Row date="12/15"><![CDATA[근로자주식저축 판매개시]]></Row>
+		<Row date="12/18"><![CDATA[공적자금 투입은행 완전감자]]></Row>
+		<Row date="12/22"><![CDATA[국민-주택은행 합병 발표]]></Row>
+	</date>
+	<date year="2001">
+		<Row date="1/3"><![CDATA[FRB 기준금리 인하(6.5% -> 12월말 1.75%)]]></Row>
+		<Row date="1/31"><![CDATA[금융시장 안정대책 발표]]></Row>
+		<Row date="2/8"><![CDATA[주식시장 활성화대책 발표]]></Row>
+		<Row date="2/16"><![CDATA[한은 총재, 국고채 과열 경고]]></Row>
+		<Row date="4/4"><![CDATA[장기주식투자 세제혜택 발표]]></Row>
+		<Row date="5/2"><![CDATA[MMF, 4월 한달 동안 12조원 유출]]></Row>
+		<Row date=""><![CDATA[벤처기업 전용 P-CBO 발행]]></Row>
+		<Row date="6/21"><![CDATA[한은, 경제상정률 전망치 하향수정]]></Row>
+		<Row date="7월"><![CDATA[이자소득세 원천징수방식 변경]]></Row>
+		<Row date="8/23"><![CDATA[IMF 졸업(차입금 완전 상환)]]></Row>
+		<Row date="9월"><![CDATA[투신사 수익증권에 대한 채권시가평가시 민간채권평가사 이용 의무화]]></Row>
+		<Row date="9/11"><![CDATA[미국 WTC 테러로 붕괴]]></Row>
+		<Row date="9/27"><![CDATA[2단계 금융규제완화 발표]]></Row>
+		<Row date="10/4"><![CDATA[국고채 2조원 buy-back]]></Row>
+		<Row date="10/17"><![CDATA[장기증권저축 판매실시]]></Row>
+		<Row date="11/13"><![CDATA[S&P, 국가신용등급 상향조정(BBB+)]]></Row>
+		<Row date="11/14"><![CDATA[주가 600선 돌파, 특소세 인하 추진]]></Row>
+		<Row date="12/3"><![CDATA[보험사 주식투자한도 폐지]]></Row>
+		<Row date="12/27"><![CDATA[국내 ECN 개장]]></Row>
+	</date>
+	<date year="2002">
+		<Row date="1/1"><![CDATA[유로화 결제수단으로 유통시작]]></Row>
+		<Row date=""><![CDATA[거래소 호가공개범위 확대]]></Row>
+		<Row date="1/28"><![CDATA[개별주식옵션 상장]]></Row>
+		<Row date="1/30"><![CDATA[REITs 거래소 상장]]></Row>
+		<Row date="2/25"><![CDATA[거래소 Repo 시장 개설]]></Row>
+		<Row date="3/1"><![CDATA[유로화 단일통화 시행]]></Row>
+		<Row date="3/28"><![CDATA[무디스 신용등급 상향(Baa -> A3)]]></Row>
+		<Row date="4/30"><![CDATA[대우차 GM에 매각]]></Row>
+		<Row date="5/10"><![CDATA[국채선물옵션 상장]]></Row>
+		<Row date="5/16"><![CDATA[KT민영화 완료]]></Row>
+		<Row date="5/31"><![CDATA[월드컵 개최]]></Row>
+		<Row date="6/13"><![CDATA[지방자치단체 선거 실시]]></Row>
+		<Row date="6/24"><![CDATA[금융시장 안정대책]]></Row>
+		<Row date="7월"><![CDATA[증권사 장외 파생상품 취급개시]]></Row>
+		<Row date="7/1"><![CDATA[은행 토요일 휴무 개시]]></Row>
+		<Row date="7/24"><![CDATA[S&P 신용등급 상향(BBB+ -> A-)]]></Row>
+		<Row date="9/14"><![CDATA[주택시장 안정대책]]></Row>
+		<Row date="9/26"><![CDATA[총액한도대출 2조원 축소]]></Row>
+		<Row date="9/29"><![CDATA[부산 아시안 게임 실시]]></Row>
+		<Row date="10/14"><![CDATA[ETF 개설]]></Row>
+		<Row date="11/1"><![CDATA[공정공시제도 시행]]></Row>
+		<Row date="12/19"><![CDATA[대통령선거]]></Row>
+	</date>
+	<date year="2003">
+		<Row date="1/2"><![CDATA[온라인 증권거래시 공인인증서 사용]]></Row>
+		<Row date="1/10"><![CDATA[북한 NPT 탈퇴]]></Row>
+		<Row date="2/11"><![CDATA[무디스 국가신용등급 전망 하향(Negative)]]></Row>
+		<Row date="2/25"><![CDATA[16대 대통령 취임]]></Row>
+		<Row date="3/11"><![CDATA[SKG, 카드사, MMF사태]]></Row>
+		<Row date="3/13"><![CDATA[금융시장 안정대책]]></Row>
+		<Row date="3/20"><![CDATA[이라크 전쟁 발발]]></Row>
+		<Row date="3/23"><![CDATA[중국전인대, 후진타오 주석 선출]]></Row>
+		<Row date="4/20"><![CDATA[북경 SARS 감염자 급증]]></Row>
+		<Row date="5/8"><![CDATA[아파트 분양권 전매 금지]]></Row>
+		<Row date="6/23"><![CDATA[ECN 가격변동 도입]]></Row>
+		<Row date="6/25"><![CDATA[FRB 연방기금금리 인하(1.25% -> 1.0%)]]></Row>
+		<Row date="7/1"><![CDATA[액면가 30% 미만 등록기업 퇴출요건 강화]]></Row>
+		<Row date="7/15"><![CDATA[1차 추경편성]]></Row>
+		<Row date="9/22"><![CDATA[2차 추경편성(태풍 매미)]]></Row>
+		<Row date="10/29"><![CDATA[부동산 종합대책]]></Row>
+		<Row date="11/4"><![CDATA[기업 대선비자금 수사확대]]></Row>
+		<Row date="11/11"><![CDATA[영란은행 금리인상(3.50% -> 3.75%)]]></Row>
+		<Row date="11/18"><![CDATA[현대엘리베이터 경영권 분쟁]]></Row>
+		<Row date="11/24"><![CDATA[LG카드 유동성 위기]]></Row>
+		<Row date="12/1"><![CDATA[개장전 시간외시장 개설]]></Row>
+		<Row date="12/4"><![CDATA[이라크 후세인 체포]]></Row>
+	</date>
+	<date year="2004">
+		<Row date="1/13"><![CDATA[주택시장안정종합대책 발표]]></Row>
+		<Row date="1/16"><![CDATA[태국 조류독감 첫 사망자 발생]]></Row>
+		<Row date="2/13"><![CDATA[이라크 주가 파병동의안 국회 통과]]></Row>
+		<Row date="2/16"><![CDATA[한-칠레 FTA 국회 비준 동의(4.1발효)]]></Row>
+		<Row date="3/2"><![CDATA[한국주택금융공사 출범]]></Row>
+		<Row date="3/10"><![CDATA[신용불량자대책 발표(헤드뱅크 출범)]]></Row>
+		<Row date="3/12"><![CDATA[국회, 노무현 대통령 탄핵소추안 의결]]></Row>
+		<Row date="4/1"><![CDATA[경부고속철도 개통]]></Row>
+		<Row date="4/15"><![CDATA[17개 국회의원 선거]]></Row>
+		<Row date="5/14"><![CDATA[헌법재판소, 노대통령 탄핵 기각]]></Row>
+		<Row date="5/27"><![CDATA[장기 국채시장 육성 방안 발표]]></Row>
+		<Row date="6/29"><![CDATA[미국 기준금리 인상 시작(연내 5차례,1.0% -> 2.25%)]]></Row>
+		<Row date="7/1"><![CDATA[서울 대중교통체계 개편]]></Row>
+		<Row date="7/1"><![CDATA[주5일제 도입(공기업, 금융기관 천명이상 사업장)]]></Row>
+		<Row date="8/13"><![CDATA[아테네 올림픽]]></Row>
+		<Row date="9/23"><![CDATA[성매매특별법 발효]]></Row>
+		<Row date="10/1"><![CDATA[국제유가 WTI기준 50달러/배럴 돌파]]></Row>
+		<Row date="10/21"><![CDATA[신행정수도건설특별법 위헌 결정]]></Row>
+		<Row date="10/29"><![CDATA[중국 1년 예금금리 인상(1.98 -> 2.25%)]]></Row>
+		<Row date="11/2"><![CDATA[조지 부시 미국 대통령 재선]]></Row>
+		<Row date="12/26"><![CDATA[동남아 쓰나미]]></Row>
+	</date>
+	<date year="2005">
+		<Row date="1/1"><![CDATA[현금영수증제도 시행]]></Row>
+		<Row date="1/27"><![CDATA[통합거래소(KRX)공식 출범]]></Row>
+		<Row date="2/16"><![CDATA[교토 의정서 발효]]></Row>
+		<Row date="4/30"><![CDATA[재보권 선거]]></Row>
+		<Row date="5/1"><![CDATA[세계 최초 위성 DMB 서비스 시작]]></Row>
+		<Row date="5/3"><![CDATA[이라크 정부 공식 출범]]></Row>
+		<Row date="5/12"><![CDATA[GM, Ford 정크본드 전락]]></Row>
+		<Row date="7/1"><![CDATA[주 5일제 시행(300인 이상 사업장)]]></Row>
+		<Row date="7/27"><![CDATA[S&P, 국가신용등급 상향(A)]]></Row>
+		<Row date="8/8"><![CDATA[금감원, 금융규제 재정비 방안 발표]]></Row>
+		<Row date="8/24"><![CDATA[행정기관 행정도시 이전안 확정]]></Row>
+		<Row date="8/31"><![CDATA[부동산 제도 개혁방안 발표]]></Row>
+		<Row date="9/20"><![CDATA[북핵관련 6자회담 타결]]></Row>
+		<Row date="10/1"><![CDATA[청계천 복원 완료/개방]]></Row>
+		<Row date="10/24"><![CDATA[피치, 한국 국가신용등급 상향(A+)]]></Row>
+		<Row date="11/18"><![CDATA[부산 APEC 정상회의]]></Row>
+		<Row date="11/23"><![CDATA[쌀 관세화유예 비준동의안 국회 통과]]></Row>
+		<Row date="12/1"><![CDATA[퇴직연금제 실시, KOSPI 1300p돌파]]></Row>
+		<Row date="12/15"><![CDATA[한국-EFTA간 FTA 정식 서명]]></Row>
+	</date>
+	<date year="2006">
+		<Row date="1월"><![CDATA[STRIP제도 시행]]></Row>
+		<Row date=""><![CDATA[5000만원이상 이체시 보고 의무화]]></Row>
+		<Row date="2/2"><![CDATA[韓美 양국 FTA협상 공식선언]]></Row>
+		<Row date="2/3"><![CDATA[버냉키 신임 美 FRB의장 취임]]></Row>
+		<Row date="2/10"><![CDATA[토리노 동계올림픽 개최]]></Row>
+		<Row date="4/3"><![CDATA[이성태 신임 한국은행 총재 취임]]></Row>
+		<Row date="5/31"><![CDATA[지방선거 실시]]></Row>
+		<Row date="6/10"><![CDATA[독일월드컵 개최]]></Row>
+		<Row date="7/1"><![CDATA[법인 MMF 익일매입제 시행]]></Row>
+		<Row date=""><![CDATA[CD등록 발행제]]></Row>
+		<Row date="9월"><![CDATA[판교2차 분양(채권입찰제 도입)]]></Row>
+		<Row date="9/19"><![CDATA[태국 군부 쿠데타 단행]]></Row>
+		<Row date="9/26"><![CDATA[아베 신조 신임 일본총리 취임]]></Row>
+		<Row date="10/9"><![CDATA[북한 핵실험 강행]]></Row>
+		<Row date="10/13"><![CDATA[반기문 장관, 유엔사무총장 당선]]></Row>
+		<Row date="11/7"><![CDATA[美 중간선거 민주당 승리]]></Row>
+		<Row date="11/7"><![CDATA[베트남 WTO 가입]]></Row>
+		<Row date="11/15"><![CDATA[추가 부동산대책 발표]]></Row>
+		<Row date="11/23"><![CDATA[론스타, 외환은행 매각 계약 파기]]></Row>
+		<Row date="11/25"><![CDATA[전북 익산, 조류독감 발견]]></Row>
+		<Row date="11/30"><![CDATA[비정규직법 통과]]></Row>
+		<Row date="12/1"><![CDATA[카타르 도하 아시안 게임 개최]]></Row>
+		<Row date="12/5"><![CDATA[수출 3000억 달러 돌파]]></Row>
+		<Row date="12/11"><![CDATA[중국, 외국은행 위안화 영업허용]]></Row>
+		<Row date="12/30"><![CDATA[태국 외환통제]]></Row>
+	</date>
+	<date year="2007">
+		<Row date=""><![CDATA[EU Basel Ⅱ시행]]></Row>
+		<Row date=""><![CDATA[한국은행 2007~2009년 물가안정목표 소비자물가 3.0±0.5% 설정]]></Row>
+		<Row date="1/11"><![CDATA[부동산 1.11대책 - 분양가 상한제, 원가공개 확대 등]]></Row>
+		<Row date="1/31"><![CDATA[윈도우비스타 출시]]></Row>
+		<Row date="1/31"><![CDATA[부동산 1.31대책 - 임대주택 확대, 6억원 이하 아파트도 DTI 적용 등]]></Row>
+		<Row date="2/13"><![CDATA[북핵폐기 결정 6자회담 타결]]></Row>
+		<Row date="2/26"><![CDATA[해외부동산 투자한도 확대(100만 달러 -> 300만 달러)]]></Row>
+		<Row date="3월"><![CDATA[미 서브프라임 모기지 부실 대두]]></Row>
+		<Row date="3/21"><![CDATA[물가연동국채 발행]]></Row>
+		<Row date="3/22"><![CDATA[개인 MMF 익일환매제 시행]]></Row>
+		<Row date="4/2"><![CDATA[한미 FTA 타결]]></Row>
+		<Row date="4/30"><![CDATA[해외펀드 비과세 조치(2009년 12월까지 양도소득세 면제)]]></Row>
+		<Row date="6/15"><![CDATA[자본시장통합법 재경부 소위 통과]]></Row>
+		<Row date="7~8월"><![CDATA[미 서브프라임 모기지 부실 재대두]]></Row>
+		<Row date="7/1"><![CDATA[비정규직보호법 시행]]></Row>
+		<Row date="7/12"><![CDATA[단기 외화차입규제]]></Row>
+		<Row date="8/5"><![CDATA[증권사 CMA 잔고 20조 돌파]]></Row>
+		<Row date="8/20"><![CDATA[소매채권시장 개설]]></Row>
+		<Row date="9/1"><![CDATA[분양가 상한제, 청약가점제 시행]]></Row>
+		<Row date="10/2"><![CDATA[남북정상회담 개최]]></Row>
+		<Row date="11/9"><![CDATA[주식형 펀드 수탁고 100조 돌파]]></Row>
+		<Row date="12/19"><![CDATA[17대 대통령선거]]></Row>
+	</date>
+	<date year="2008">
+		<Row date=""><![CDATA[추가 외환규제완화(해외부동산 취득한도 폐지,]]></Row>
+		<Row date=""><![CDATA[연 5만달러까지 해외자본거래 자유화 ]]></Row>
+		<Row date="1월"><![CDATA[은행권 바젤Ⅰ, 바젤Ⅱ 병행산출 시작]]></Row>
+		<Row date=""><![CDATA[걸프협력협의회(GCC) 공동시장 출범]]></Row>
+		<Row date="1/2"><![CDATA[국제유가 사상최초로 배럴당 100달러 상회]]></Row>
+		<Row date="2/25"><![CDATA[17대 이명박대통령 취임]]></Row>
+		<Row date="3/7"><![CDATA[한은 기준금리 RP로 변경]]></Row>
+		<Row date="3/17"><![CDATA[JP모건, 베어스턴스 인수]]></Row>
+		<Row date="3/20"><![CDATA[장기보유 1주택자 특별공제 방안]]></Row>
+		<Row date="4/9"><![CDATA[18대 국회의원 선거]]></Row>
+		<Row date="5/21"><![CDATA[은행단기회채 규제 발표]]></Row>
+		<Row date="6/17"><![CDATA[고유가 극복 위한 4.9조원 추경예산 편성]]></Row>
+		<Row date="7/11"><![CDATA[국제유가 WTI 사상 최고치 147.27달러 기록]]></Row>
+		<Row date="8/8"><![CDATA[중국 베이징 올림픽, 그루지야 사태 발발]]></Row>
+		<Row date="9/15"><![CDATA[리먼브라더스 파산보호 신청, BOA의 메릴린치 인수]]></Row>
+		<Row date="9/22"><![CDATA[美 페니매, 프레디맥 구제방안 발표]]></Row>
+		<Row date="10/30"><![CDATA[한미 300억달러 통화스왑 체결]]></Row>
+		<Row date="10/31"><![CDATA[美 7천억 구제금융 수정안 가결]]></Row>
+		<Row date="11/4"><![CDATA[버락 오바마, 미국 44대 대통령으로 선출]]></Row>
+		<Row date="11/13"><![CDATA[채권시장안정펀드(10조원) 조성 발표]]></Row>
+		<Row date=""><![CDATA[1주택 장기보유자에 대한 종부세 헌법 불합치, 세대별 합산 위헌 판결]]></Row>
+		<Row date="12/3"><![CDATA[C&그룹 워크아웃 개시]]></Row>
+		<Row date=""><![CDATA[캠코, 저축은행 PF 1조원 매입 발표]]></Row>
+		<Row date="12/19"><![CDATA[미 행정부, GM/크라이슬러 174억달러 지원]]></Row>
+	</date>
+	<date year="2009">
+		<Row date="2/3"><![CDATA[한미 통화스왑 협정기간 6개월 연장]]></Row>
+		<Row date="2/10"><![CDATA[미국 구제금융안 발표]]></Row>
+		<Row date="2/13"><![CDATA[미의회 7,800억달러 경기부양책 승인]]></Row>
+		<Row date="2/17"><![CDATA[동유럽 경제위기 고조]]></Row>
+		<Row date="2/26"><![CDATA[외국인 채권이자소득세 면제 발표]]></Row>
+		<Row date="3/13"><![CDATA[정부 구조조정기금 40조 조성계획]]></Row>
+		<Row date="3/18"><![CDATA[Fed 양적완화 계획 발표]]></Row>
+		<Row date="3/24"><![CDATA[추경예산 28조원 편성 확정]]></Row>
+		<Row date="4/9"><![CDATA[올해 첫 외평채 30억달러 발행 성공]]></Row>
+		<Row date="5월"><![CDATA[10대 대기업 재무구조개선 약정 체결]]></Row>
+		<Row date="5/23"><![CDATA[노무현 前 대통령 서거]]></Row>
+		<Row date="6/1"><![CDATA[GM 파산보호 신청]]></Row>
+		<Row date="6/12"><![CDATA[G8재무장관 출구전략 첫 공신 논의]]></Row>
+		<Row date="6/23"><![CDATA[한국은행 5만원권 발행]]></Row>
+		<Row date="7/1"><![CDATA[예탁결제원, 외국인 통합계좌 개설]]></Row>
+		<Row date="7/16"><![CDATA[한-EU FTA 타결]]></Row>
+		<Row date="7/29"><![CDATA[국고채 ETF 도입]]></Row>
+		<Row date="8/1"><![CDATA[신종플루 국내 확산]]></Row>
+		<Row date="8/7"><![CDATA[한국-인도 포괄적 경제동반자 협정(CEPA)타결]]></Row>
+		<Row date="8/18"><![CDATA[김대중 前 대통령 서거]]></Row>
+		<Row date="8/30"><![CDATA[일본 자민당 ->  민주당 정권교체(하토야마 정권 출범)]]></Row>
+		<Row date="9/21"><![CDATA[국내 증시, FTSE 선진지수 정식 편입]]></Row>
+		<Row date="10/6"><![CDATA[호즈, 선진국 중 첫 기준금리 인상]]></Row>
+		<Row date="11/1"><![CDATA[CIT그룹 파산보호 신청]]></Row>
+		<Row date="11/26"><![CDATA[두바이월드 채무지불유예선언]]></Row>
+		<Row date="12/1"><![CDATA[EU정치적 통합-리스본조약 발효]]></Row>
+		<Row date="12/7~18"><![CDATA[코펜하겐 기후변화 정상회의]]></Row>
+		<Row date="12/9"><![CDATA[그리스, 스페인 신용등급전망 하향]]></Row>
+	</date>
+	<date year="2010">
+		<Row date="1/1"><![CDATA[체코, 헝가리 유로존 편입]]></Row>
+		<Row date="1/4"><![CDATA[연기금, 공모펀드 증권거래세 부과]]></Row>
+		<Row date="3/24"><![CDATA[은행 예대율 규제-2014년부터 시행]]></Row>
+		<Row date="3/26"><![CDATA[천안함 침몰]]></Row>
+		<Row date="3/26"><![CDATA[EU, IMF 그리스 지원 결정]]></Row>
+		<Row date="4/1"><![CDATA[금투협, 채권거래 전용시스템 FreeBond오픈]]></Row>
+		<Row date="4/1"><![CDATA[김중수 한은 총재 취임]]></Row>
+		<Row date="4/14"><![CDATA[무디스, 한국 신용등급 A1으로 상향]]></Row>
+		<Row date="5/10"><![CDATA[EU, 7500억 유로규모 유러화 안정기금 합의]]></Row>
+		<Row date=""><![CDATA[ECB, 국채 매입 결정]]></Row>
+		<Row date="6/2"><![CDATA[한국 지방선거]]></Row>
+		<Row date="6/7"><![CDATA[외국인, 원화채권 보유 잔액 70조원 돌파]]></Row>
+		<Row date="6/11~7/11"><![CDATA[남아공 월드컵]]></Row>
+		<Row date="6/15"><![CDATA[선물환 규제 방안 발표]]></Row>
+		<Row date="6/19"><![CDATA[위안화 관리통화환율제로 변경]]></Row>
+		<Row date="6/24"><![CDATA[한은, 총액대출한도 1.5조원 축소]]></Row>
+		<Row date="6/26"><![CDATA[G20 정상회의-캐나다 온타리오]]></Row>
+		<Row date="6/29"><![CDATA[중국-대만 경제협력 기본협의(ECFA) 체결]]></Row>
+		<Row date="8/31"><![CDATA[한은, 통화안정계정 도입]]></Row>
+		<Row date="9/28"><![CDATA[북한, 김정은 후계체계 공식화]]></Row>
+		<Row date="10/4"><![CDATA[브라질 금융거래세 인상(2% -> 4%)]]></Row>
+		<Row date="10/6"><![CDATA[한-EU FTA 정식서명]]></Row>
+		<Row date="10/19"><![CDATA[브라질 금융거래세 인상(4% -> 6%)]]></Row>
+		<Row date="10/25"><![CDATA[국채선물 표면금리 변경]]></Row>
+		<Row date="11/4"><![CDATA[미국 2차 양적완화정책 시행]]></Row>
+		<Row date="11/11~12"><![CDATA[G20 서울 정상회담]]></Row>
+		<Row date="11/23"><![CDATA[연평도 포격]]></Row>
+		<Row date="11/25"><![CDATA[하나금융, 외환은행 인수계약 체결]]></Row>
+		<Row date="11/28"><![CDATA[EU, 아일랜드 850억유로 구제금융안 승인]]></Row>
+		<Row date="12/7"><![CDATA[외국채 채권투자 과세 전환]]></Row>
+		<Row date="12/7"><![CDATA[국채 3년물 금리 사상 최저치 경신]]></Row>
+		<Row date="12/17"><![CDATA[EU, 유로안정화기구(ESM)창설 합의]]></Row>
+		<Row date="12/19"><![CDATA[은행세 부과 발표]]></Row>
+		<Row date="12/23"><![CDATA[총액대출한도 1조원 축소]]></Row>
+	</date>
+	<date year="2011">
+		<Row date=""><![CDATA[국제회계기준(IFRS)전면도입]]></Row>
+		<Row date=""><![CDATA[한국, 호주/터키/콜롬비아와의 FTA 체결진행]]></Row>
+		<Row date=""><![CDATA[한-미 FTA 발효 가능성]]></Row>
+		<Row date=""><![CDATA[고용창출 투자세액공제제도 도입]]></Row>
+		<Row date=""><![CDATA[해외사업 국내이전 기업에 3년간 소득, 법인세 면제]]></Row>
+		<Row date=""><![CDATA[금융회사 경영지배구조법 제정 추진]]></Row>
+		<Row date=""><![CDATA[종합편성사업자 방송 시작]]></Row>
+		<Row date=""><![CDATA[신분당선 개통]]></Row>
+		<Row date="1/1"><![CDATA[중국-대만 ECFA 발효]]></Row>
+		<Row date="1/23"><![CDATA[포르투갈 대통령 선거]]></Row>
+		<Row date="6월"><![CDATA[FED, 2차 양적완화 국채매입계획 완료 예정]]></Row>
+		<Row date="7/1"><![CDATA[한-유럽 FTA 잠정 발효]]></Row>
+		<Row date="10월"><![CDATA[아일랜드 대통령 선거]]></Row>
+		<Row date="11월"><![CDATA[프랑스 칸 G20 정상 회담]]></Row>
+		<Row date=""><![CDATA[미국 하와이 APEC 개최]]></Row>
+		<Row date=""><![CDATA[주요 대기업별 동반성장지수 평가결과 발표]]></Row>
+		<Row date="12/31"><![CDATA[이라크 주둔 美 병력 전군 철수 예정]]></Row>
+	</date>
+</News>
+
+
+
+
+
+

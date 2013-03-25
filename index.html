@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head>
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+<link rel="apple-touch-icon" href="/mobile/images/logo.png" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta http-equiv="Content-Script-Type" content="text/javascript" /> 
+<meta http-equiv="Content-Style-Type" content="text/css" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+<style>
+* {margin:0px; padding:0px;}
+html, body, table, input, textarea, select, h1, h2, h3, h4 {color:#000; font-size:12px; font-family: Dotum, Dotumche;word-break:keep-all;}
+html, body {height:100%;margin:0px;padding:0px;}
+form, div, p, span, ul, li, dl, dt, textarea, h1, h2, h3, h4 {margin:0px; padding:0px; word-break:keep-all;}
+table caption, legend {visibility:hidden; overflow:hidden; width:0; height:0; margin:0; padding:0;}
+table, th, td {border-spacing:0px; border-collapse:collapse;}
+ul, ol, dl, li, dt, dd {list-style:none;}
+img, fieldset {border:0px;}
+html, body {width:100%; height:100%;}
+</style>
+<title>wchart</title>
+<script type="text/javascript" src="flash.js"></script>
+</head>
+
+<body>
+<div id="wchart">
+	<iframe src="flash.html" width="760" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<!--span id="twidth">가로: </span><input type="text" id="cwidth" value="" onkeyup="checkNum(this)" onfocus="numFocus(this)" />
+<span id="theight">세로: </span><input type="text" id="cheight" value="" onkeyup="checkNum(this)" onfocus="numFocus(this)" />
+<input type="button" value="차트사이즈 변경하기" onclick="changeSize()" /-->
+
+</body>
+</html>
+<script type="text/javascript">
+<!--
+document.getElementById("cwidth").value = "760"
+document.getElementById("cheight").value = "600"
+function changeSize(){
+	var chartWidth = document.getElementById("cwidth");
+	var chartHeight = document.getElementById("cheight");
+	
+	if(chartWidth.value == ""){
+		alert("가로사이즈를 입력해주세요.");
+		chartWidth.focus();
+		return false;
+	}
+	if(chartHeight.value == ""){
+		alert("세로사이즈를 입력해주세요.");
+		chartHeight.focus();
+		return false;
+	}
+	if(chartWidth.value.search(/[^0-9_]/) != -1){
+		alert("숫자만 넣으세욧!!.");
+		chartWidthvalue = ""
+		chartWidth.focus();
+		return false;
+	}
+	if(chartHeight.value.search(/[^0-9_]/) != -1){
+		alert("숫자만 넣으세욧!!");
+		chartHeight.value = ""
+		chartHeight.focus();
+		return false;
+	}
+	
+	params = "<iframe src='flash.html' width='"+chartWidth.value+"' height='"+chartHeight.value+"' frameborder='0'></iframe>"
+	document.getElementById("wchart").innerHTML = params;
+	return true;
+}
+
+function aa(m, n){	
+	var a = n;
+
+	if(a.search(/[^0-9_]/) != -1){
+		alert("아놔~ 같은편끼리 왜그러세요~~ \n숫자만 넣으셔야져!!");
+		m.value = ""
+		m.focus();
+	}else{}
+}
+
+function checkNum(nm){
+	var elem = nm.value
+	aa(nm, elem);
+}
+
+function numFocus(nm){
+	nm.value = "";
+}
+-->
+</script>
+
+
+
+
+
